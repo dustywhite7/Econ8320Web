@@ -4,3 +4,14 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - numpy
+  - scipy
+  - plotly
+  - pygam
+  - pymc
+  - scikit-learn
+  - statsmodels
+  - keras
+  - bs4
+  - matplotlib
+  - seaborn
