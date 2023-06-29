@@ -8,10 +8,10 @@ dependencies:
   - scipy
   - plotly
   - pygam
-  - pymc
+  # - pymc
   - scikit-learn
   - statsmodels
-  - keras
+  # - keras
   - bs4
   - matplotlib
   - seaborn
