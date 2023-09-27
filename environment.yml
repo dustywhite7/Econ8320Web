@@ -5,13 +5,11 @@ channels:
 dependencies:
   - ipycanvas
   - numpy
+  - pandas
   - scipy
-  - plotly
-  - pygam
-  # - pymc
-  - scikit-learn
   - statsmodels
-  # - keras
+  - pygam
+  - scikit-learn
+  - plotly
   - bs4
-  - matplotlib
-  - seaborn
+  
